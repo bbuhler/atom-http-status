@@ -1,0 +1,19 @@
+{
+  "name": "atom-http-status",
+  "version": "0.0.1",
+  "description": "Provides autocompletion of HTTP statuses with short description and link to specification.",
+  "author": "Benjamin Buhler",
+  "license": "MIT",
+  "keywords": [
+    "atom",
+    "http",
+    "status",
+    "snippets",
+    "specs",
+    "documentation",
+    "autocomplete"
+  ],
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
